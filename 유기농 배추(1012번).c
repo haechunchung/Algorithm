@@ -1,4 +1,5 @@
-// 유기농 배추(1012번)
+
+# 유기농 배추(1012번)
 #include<stdio.h>
 int beachu[51][51] = { 0 };
 int row, colum, num;
